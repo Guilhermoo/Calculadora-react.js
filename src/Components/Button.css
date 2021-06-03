@@ -1,0 +1,22 @@
+.Button {
+    height: 6rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: lighter;
+    font-size: 1rem;
+    background-color: #e0e1e6;
+    color: #888;
+    flex: 1;
+    outline: 1px solid #888;
+    cursor: pointer;
+}
+
+.operator {
+    background-color: #fe9241;
+    color: white;
+}
+
+.equalBtn {
+    background-color: #fe9241;
+}
